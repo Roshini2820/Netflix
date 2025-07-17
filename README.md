@@ -81,7 +81,7 @@ WHERE rank = 1;
 
 **Objective:** Identify the most frequently occurring rating for each type of content.
 
-### 3. List All Movies Released in a Specific Year (e.g., 2020)
+### 3. List All Movies Released in a Specific Year (2020)
 
 ```sql
 SELECT * 
